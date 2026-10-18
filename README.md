@@ -1,1 +1,1 @@
-# botpix
+requirements.txt
